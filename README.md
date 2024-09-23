@@ -24,7 +24,9 @@
 <a href="https://linkedin.com/in/hitesh-h-582639215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-h-582639215" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh009911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh009911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="300" alt="languages graph" />
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
